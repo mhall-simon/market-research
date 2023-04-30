@@ -1,0 +1,2 @@
+# Databricks DBR ML 12.2 LTS Runtime Libraries
+pyspark==3.3.2
